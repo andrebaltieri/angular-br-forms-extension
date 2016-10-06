@@ -6,7 +6,8 @@ Diretivas para componentes de formulários utilizados no Brasil como CPF, CNPJ, 
  * CPF
  * RG
  * CNPJ
- * Email
+ * Telefone
+ * Email 
  * URL
  * CEP (Com auto-complete)
  * Conversão Maiúsculo
